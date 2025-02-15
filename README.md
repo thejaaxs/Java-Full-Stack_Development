@@ -23,6 +23,7 @@ This roadmap will guide you through the complete process of becoming a Java Full
 **📌 Hands-On Project:** Build a simple "Student Management System" with CRUD operations (Create, Read, Update, Delete).
 
 ---
+
 ## Database & SQL
 ### SQL Basics & Integration with Java
 #### Topics:
@@ -33,6 +34,7 @@ This roadmap will guide you through the complete process of becoming a Java Full
 **📌 Hands-On Project:** Implement a database for the "Student Management System" and link it with your Java backend.
 
 ---
+
 ## HTML, CSS & Basic Frontend
 ### Frontend Basics
 #### Topics:
@@ -43,6 +45,7 @@ This roadmap will guide you through the complete process of becoming a Java Full
 **📌 Hands-On Project:** Create a landing page for your "Student Management System" with basic styling.
 
 ---
+
 ## JavaScript and Frontend Interactivity
 ### JavaScript Basics
 #### Topics:
@@ -54,6 +57,7 @@ This roadmap will guide you through the complete process of becoming a Java Full
 **📌 Hands-On Project:** Enhance your landing page by adding dynamic interactivity, such as form validation.
 
 ---
+
 ## Spring Boot & Backend Development
 ### Spring Boot Basics
 #### Topics:
@@ -65,6 +69,7 @@ This roadmap will guide you through the complete process of becoming a Java Full
 **📌 Hands-On Project:** Build a Spring Boot backend for your "Student Management System" to handle API requests.
 
 ---
+
 ## React and Frontend Development
 ### React Basics
 #### Topics:
@@ -77,6 +82,7 @@ This roadmap will guide you through the complete process of becoming a Java Full
 **📌 Hands-On Project:** Convert your landing page into a React app with routing and state management.
 
 ---
+
 ## Full Stack Integration
 ### Integration & Deployment
 #### Topics:
@@ -86,6 +92,7 @@ This roadmap will guide you through the complete process of becoming a Java Full
 **📌 Hands-On Project:** Deploy your "Student Management System" as a full-stack web app with a working frontend and backend.
 
 ---
+
 ## Key Projects for Portfolio
 ✅ **Student Management System** (Java + SQL)<br>
 ✅ **Landing Page** (HTML, CSS, JavaScript)<br>
